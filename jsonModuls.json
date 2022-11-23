@@ -1,0 +1,19 @@
+{"Cursos":[
+    {"Curs 1":[
+        {"MODULS":[
+            {"Nom ":"Base de dades", "Hores":"120","id":"1232"},
+            {"Nom ":"Programacio", "Hores":"70","id":"6789"},
+            {"Nom ":"Sistemes informatics", "Hores":"240", "id":"7678"}
+        ]}
+
+    ]},
+    {"Curs 2":[
+        {"MODULS":[            
+            {"Nom ":"Administracio empresarial", "Hores":"240","id":"3232"},
+            {"Nom ":"Acces a dades", "Hores":"120","id":"9090"},
+            {"Nom ":"Programacio", "Hores":"70","id":"8586"}
+        ]}
+
+    ]}
+    
+]}
